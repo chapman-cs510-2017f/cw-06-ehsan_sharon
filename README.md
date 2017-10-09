@@ -21,7 +21,7 @@
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+We beleive The new you method for creating the grid would be more useful and can be easily made comapre to the list-in-list method which we implented last time. Decaying the use of for loops and acquiring the power of Numpy library was the challenge that we conquer. 
 
 ## Honor Pledge
 
@@ -32,4 +32,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAME**
+Sharon Kim, Ehsan Yaghmaei
