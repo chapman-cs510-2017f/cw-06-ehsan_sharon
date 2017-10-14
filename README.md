@@ -1,8 +1,8 @@
 # CS510 CW 6
 
-**Author(s):** **CHANGEME**
+**Author(s):** **Sharon Kim, Ehsan Yaghmei**
 
-[![Build Status](https://travis-ci.org/chapman-cs510-2017f/cw-06-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-cs510-2017f/cw-06-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-cs510-2017f/cw-06-ehsan_sharon.svg?branch=master)](https://travis-ci.org/chapman-cs510-2017f/cw-06-ehsan_sharon)
 
 ## Specification
 
@@ -21,7 +21,7 @@
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-We beleive The new you method for creating the grid would be more useful and can be easily made comapre to the list-in-list method which we implented last time. Decaying the use of for loops and acquiring the power of Numpy library was the challenge that we conquer. 
+We believe the new you method for creating the grid would be more useful and can be easily made compared to the list-in-list method which we implemted last time. Decaying the use of for loops and acquiring the power of Numpy library was the challenge that we conquered.
 
 ## Honor Pledge
 
